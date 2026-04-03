@@ -52,6 +52,11 @@ I'm **Younes**
 
 ## 🗣️ Languages I Speak
 
+![Français](https://img.shields.io/badge/🇫🇷_Français-Langue_maternelle-brightgreen?style=for-the-badge)
+![Kabyle](https://img.shields.io/badge/🏔️_Kabyle-Intermédiaire-brightgreen?style=for-the-badge)
+![Arabe](https://img.shields.io/badge/🇩🇿_Arabe_algérien-Langue_maternelle-yellow?style=for-the-badge)
+![Anglais](https://img.shields.io/badge/🇬🇧_Anglais-Élémentaire-yellow?style=for-the-badge)
+![Espagnol](https://img.shields.io/badge/🇪🇸_Espagnol-Débutant-orange?style=for-the-badge)
 
 | Kabyle 🏔️ | Native |
 
