@@ -29,10 +29,6 @@ I'm **Younes**
 ## 🔥 My Stats!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=younes193&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Younes GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=younes193&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
