@@ -46,9 +46,7 @@ I'm **Younes**
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=younes193&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younes193&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+
 
 
 
