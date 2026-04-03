@@ -49,9 +49,6 @@ I'm **Younes**
 
 
 
-
-## 🗣️ Languages I Speak
-
 <h2>🗣️ Langues parlées</h2>
 
 
