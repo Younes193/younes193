@@ -50,8 +50,6 @@ I'm **Younes**
 | Anglais 🇬🇧 | Conversational |
 
 | Espagnol 🇪🇸 | Basic |
-
-|  الإسبانية | أساسي |
  
 ---
 
