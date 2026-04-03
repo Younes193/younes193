@@ -1,3 +1,17 @@
+<div align="center">
+  <img height="150" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NtaDBjd2VyeXN3Mnh1bGtxNXVwMzdsbG5hMjh5bWdxa2x6MzI0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6FWpozKBgrQD4MZwDC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ajNrcmlscG1id2NyMDQxdGg2cjkyMmt1bjJyamN2Z2EwZ2R0cXA4biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Qiru6DuC7tZuOgjtBF/giphy.gif)"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://x.com/younesboukhezar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=black&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
+
+
+
 # 👨‍💻 About Me
 
 I'm **Younes**
