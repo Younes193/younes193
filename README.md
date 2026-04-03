@@ -52,11 +52,23 @@ I'm **Younes**
 
 ## 🗣️ Languages I Speak
 
-![Français](https://img.shields.io/badge/🇫🇷_Français-Langue_maternelle-brightgreen?style=for-the-badge)
-![Kabyle](https://img.shields.io/badge/🏔️_Kabyle-Intermédiaire-brightgreen?style=for-the-badge)
-![Arabe](https://img.shields.io/badge/🇩🇿_Arabe_algérien-Langue_maternelle-yellow?style=for-the-badge)
-![Anglais](https://img.shields.io/badge/🇬🇧_Anglais-Élémentaire-yellow?style=for-the-badge)
-![Espagnol](https://img.shields.io/badge/🇪🇸_Espagnol-Débutant-orange?style=for-the-badge)
+<h2>🗣️ Langues parlées</h2>
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Français-2ecc71?style=flat-square&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/-Kabyle-2ecc71?style=flat-square&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/-Arabe_algérien-f1c40f?style=flat-square&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/-Anglais-f1c40f?style=flat-square&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/-Espagnol-e67e22?style=flat-square&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center">🟢 Courant</td>
+    <td align="center">🟢 Courant</td>
+    <td align="center">🟡 Intermédiaire</td>
+    <td align="center">🟡 Intermédiaire</td>
+    <td align="center">🟠 Débutant</td>
+  </tr>
+</table>
 
 | Kabyle 🏔️ | Native |
 
