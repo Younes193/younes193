@@ -38,6 +38,24 @@ I'm **Younes**
 
 ---
 
+## 🗣️ Languages I Speak
+
+
+| Kabyle 🏔️ | Native |
+
+| Francais 🇫🇷 | Fleunt |
+
+| Arabe 🇩🇿 | Proficient |
+
+| Anglais 🇬🇧 | Conversational |
+
+| Espagnol 🇪🇸 | Basic |
+
+|  الإسبانية | أساسي |
+ 
+---
+
+
 ## 🌐 Portfolio
 
 👉 [younes193.github.io/younesbouk.github.io](https://younes193.github.io/younesbouk.github.io)
