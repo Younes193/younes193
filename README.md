@@ -1,4 +1,4 @@
-![Discord](https://github.com/user-attachments/assets/19eb20a5-6eaf-4260-a39e-2fb6c62632af)![Discord](https://github.com/user-attachments/assets/13c31d49-1a31-4dd4-a986-06fbe24145be)# 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm **Younes**
 
